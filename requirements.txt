@@ -1,0 +1,4 @@
+rich>=13.0
+
+# Dev / testing
+pytest>=8.0
