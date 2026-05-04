@@ -23,7 +23,7 @@ Este proyecto implementa una blockchain desde cero en Python con un motor de sma
 ### Setup
 
 ```bash
-git clone https://github.com/[tu-usuario]/supply-chain-smart-contracts.git
+git clone https://github.com/AzahidGarcia/supply-chain-smart-contracts.git
 cd supply-chain-smart-contracts
 pip install -r requirements.txt
 ```
